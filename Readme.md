@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FullStack developer Who Wanna Do And Build Great things and Iam A Dev for fun</h3>
 <h3 align="center">I Love To Code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharifjameel90&label=Profile%20views&color=0e75b6&style=flat" alt="sharifjameel90" /> </p>
+<p align="left"> <img src="https://profile-counter.glitch.me/hritikhere/count.svg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharifjameel90" alt="sharifjameel90" /></a> </p>
 
