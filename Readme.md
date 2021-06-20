@@ -35,3 +35,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharifjameel90&" alt="sharifjameel90" /></p>
  
+ <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=sharifjameel90&custom_title=Sharif%20Jameel%20Activity%20Chart&hide_border=true&theme=github" alt="sharifjameel90" /></p>
+ 
