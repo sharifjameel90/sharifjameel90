@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharifjameel90&label=Profile%20views&color=0e75b6&style=flat" alt="sharifjameel90" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharifjameel90" alt="sharifjameel90" /></a> </p>
 
-- 🔭 I’m currently working on **React Native Application**
+- 🔭 I’m currently working on **React Native Application** And a **Fullstack Web Application **
 - 🌱 I’m currently learning python react native
 - 📫 How to reach me: sharifjameel37@gmail.com
 - 🌐 [My Portfolio](https://sharifjameel90.github.io)
@@ -14,13 +14,11 @@
 
 <h3 align="left">Things I Have Builded Recently</h3>
 
--[islamic-entertainment](https://github.com/sharifjameel90/islamic-entertainment)
-<br />
 -[RnFirebaseApp](https://github.com/sharifjameel90/RnFirebaseApp)
 <br />
 -[ad-blocker](https://github.com/sharifjameel90/ad-blocker)
 <br />
--[My Portfolio](https://github.com/sharifjameel90/sharifjameel90.github.io)
+-[vscode extension jqc](https://github.com/sharifjameel90/jquery-script-code)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
