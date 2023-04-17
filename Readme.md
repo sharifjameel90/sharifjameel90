@@ -13,13 +13,13 @@
 - 👦 I’m A Boy 13 years old
 
 <h3 align="left">Things I Have Builded Recently</h3>
-[NgrokGui](https://github.com/sharifjmeel90/NgrokGui)
+[NgrokGui one of my best apps] (https://github.com/sharifjmeel90/NgrokGui)
 <br />
-[Electron Todo List](https://github.com/sharifjameel90/TodoList)
+[Electron Todo List] (https://github.com/sharifjameel90/TodoList)
 <br />
-[ad blocker](https://github.com/sharifjameel90/ad-blocker)
+[ad blocker] (https://github.com/sharifjameel90/ad-blocker)
 <br />
-[jquery script code with 18k+ downloads](https://github.com/sharifjameel90/jquery-script-code)
+[jquery script code with 18k+ downloads] (https://github.com/sharifjameel90/jquery-script-code)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
