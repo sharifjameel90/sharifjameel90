@@ -8,25 +8,25 @@
 - 💁 I'm trying to get back from a long break
 - 🔭 I’m currently working on **[Ngrok Gui](https://github.com/NgrokGUI/NgrokGui)** And **Breaking problems and Solving problems**
 - 🌱 I’m currently relearning things again
-- 📫 How to reach me: sharifjameel37@gmail.com
+- 📫 How to reach me: sharifjameel37@gmail.com or Sharuu#2404
 - 🌐 [My Portfolio](https://sharifjameel90.github.io)
 - 😀 hobby programmer,football,tech enthusiastic,gaming,app devlopment,web development,fullstack devlopment,database
-- 👦 I’m A Boy 13 years old
+- 👦 I’m A Boy, 13 years old
 
 <h3 align="left">Things I Have Builded Recently</h3>
-[NgrokGui](https://github.com/NgrokGUI/NgrokGui) - A new App, has a new file transferring Method which saves you lots of time Check it out
+- [NgrokGui](https://github.com/NgrokGUI/NgrokGui) - A new App, has a new file transferring Method which saves you lots of time Check it out
 <br/>
-[Todo List](https://github.com/sharifjameel90/TodoList) - Todo List Built from electron its a software :)
+- [Todo List](https://github.com/sharifjameel90/TodoList) - Todo List Built from electron its a software :)
 <br/>
-[ad blocker](https://github.com/sharifjameel90/ad-blocker) - Blocks Annoying ads
+- [ad blocker](https://github.com/sharifjameel90/ad-blocker) - Blocks Annoying ads
 <br/>
-[jquery script code](https://github.com/sharifjameel90/jquery-script-code) - Vs code Extenstion to make life easier Has 18k+ Downloads
+- [jquery script code](https://github.com/sharifjameel90/jquery-script-code) - Vs code Extenstion to make life easier Has 18k+ Downloads
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/sharif_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sharif_codes" height="30" width="40" /></a>
-<a href="https://dev.to/sharifjameel90" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sharifjameel90" height="30" width="40" /></a>
-<a href="https://instagram.com/iam_sharifjameel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_sharifjameel" height="30" width="40" /></a>
+`Discord: Sharuu#2404`
+<br/>
+`Mail: Sharifjameel37@gmail.com`
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
