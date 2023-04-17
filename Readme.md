@@ -5,18 +5,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharifjameel90&label=Profile%20views&color=0e75b6&style=flat" alt="sharifjameel90" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharifjameel90" alt="sharifjameel90" /></a> </p>
 
-- 🔭 I’m currently working on **React Native Application** And **Fullstack Web Application**
-- 🌱 I’m currently learning python react native
+- 💁 I'm trying to get back from a long break
+- 🔭 I’m currently working on **[Ngrok Gui](https://github.com/NgrokGUI/NgrokGui)** And **Breaking problems and Solving problems**
+- 🌱 I’m currently relearning things again
 - 📫 How to reach me: sharifjameel37@gmail.com
 - 🌐 [My Portfolio](https://sharifjameel90.github.io)
 - 😀 hobby programmer,football,tech enthusiastic,gaming,app devlopment,web development,fullstack devlopment,database
 - 👦 I’m A Boy 13 years old
 
 <h3 align="left">Things I Have Builded Recently</h3>
-[NgrokGui one of my best apps] (https://github.com/sharifjmeel90/NgrokGui)
-[Electron Todo List] (https://github.com/sharifjameel90/TodoList)
-[ad blocker] (https://github.com/sharifjameel90/ad-blocker)
-[jquery script code with 18k+ downloads] (https://github.com/sharifjameel90/jquery-script-code)
+[NgrokGui](https://github.com/NgrokGUI/NgrokGui) - A new App, has a new file transferring Method which saves you lots of time Check it out
+<br/>
+[Todo List](https://github.com/sharifjameel90/TodoList) - Todo List Built from electron its a software :)
+<br/>
+[ad blocker](https://github.com/sharifjameel90/ad-blocker) - Blocks Annoying ads
+<br/>
+[jquery script code](https://github.com/sharifjameel90/jquery-script-code) - Vs code Extenstion to make life easier Has 18k+ Downloads
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
