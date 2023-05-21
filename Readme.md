@@ -5,7 +5,7 @@
 
 ### My about :0
 - 💁 I'm trying to get back from a long break
-- 🔭 I’m currently working on **[Ngrok Gui](https://github.com/NgrokGUI/NgrokGui)** And **Breaking problems and Solving problems**
+- 🔭 I’m currently working on **[Ngrok Gui](https://github.com/NgrokGUI/NgrokGui)** And **Breaking things and Solving problems**
 - 🌱 I’m currently relearning things again
 - 📫 How to reach me: sharifjameel37@gmail.com or Sharuu#2404
 - 🌐 [My Portfolio](https://sharifjameel90.github.io)
@@ -15,7 +15,7 @@
 ### Things builded Recently :fire:
 - [NgrokGui](https://github.com/NgrokGUI/NgrokGui) - A new App, has a new file transferring Method which saves you lots of time Check it out
 - [Todo List](https://github.com/sharifjameel90/TodoList) - Todo List Built from electron its a software :)
-- [ad blocker](https://github.com/sharifjameel90/ad-blocker) - Blocks Annoying ads
+- [Memos](https://github.com/sharifjameel90/Memos) - Web Scraping and Meme WebApp
 - [jquery script code](https://github.com/sharifjameel90/jquery-script-code) - Vs code Extenstion to make life easier Has 18k+ Downloads
 
 ### Connect with me?
